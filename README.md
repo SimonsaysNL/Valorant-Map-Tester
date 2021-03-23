@@ -33,7 +33,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![](valorant-preview.png)
+![](valmaptest.png)
 
 A basic browser version of the 5v5 tactical shooter Valorant. Here maps can be playtested.
 
