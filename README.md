@@ -1,5 +1,5 @@
 # Valorant Map Tester - Work in Progress - Coming Soon
-## Leveldesign - Gamemechanics - Collision detection - Animation - Shading
+## Leveldesign - Gamemechanics - Collision detection - Animation - Shading - Multiplayer
 
 <!-- <br />
 <p align="center">
@@ -37,8 +37,6 @@
 
 A basic browser version of the 5v5 tactical shooter Valorant. Here maps can be playtested.
 Gradient and smoke shader implemented.
-
-Nodejs used 
 
 ### Built With
 
