@@ -1,5 +1,5 @@
-# Valorant Map Tester - Work in Progress - Comming Soon
-## Leveldesign - Gamemechanics - Animation - Shading
+# Valorant Map Tester - Work in Progress - Coming Soon
+## Leveldesign - Gamemechanics - Collision detection - Animation - Shading
 
 <!-- <br />
 <p align="center">
