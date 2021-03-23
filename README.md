@@ -1,7 +1,7 @@
 # Valorant Map Tester - Work in Progress - Comming Soon
 ## Leveldesign - Animation - Lighting - Transitions - Reflections
 
-<br />
+<!-- <br />
 <p align="center">
     <br />
     <a href="https://raw.githack.com/SimonsaysNL/Valorant-Map-Tester/master/intro/index.html">View Demo</a>
@@ -10,7 +10,7 @@
     ·
     <a href="https://github.com/SimonsaysNL/Valorant-Map-Tester/issues">Request Feature</a>
   </p>
-</p>
+</p> -->
 
 
 
