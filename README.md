@@ -38,10 +38,14 @@
 A basic browser version of the 5v5 tactical shooter Valorant. Here maps can be playtested.
 Gradient and smoke shader implemented.
 
+Nodejs used 
+
 ### Built With
 
 * [Threejs](https://threejs.org/)
 * [GSAP](https://greensock.com/gsap/)
+* [Nodejs](https://nodejs.org/)
+* [SocketIO](https://socket.io/)
 * [Blender](https://www.blender.org/)
 
 <!-- CONTACT -->
